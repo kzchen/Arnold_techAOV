@@ -3,7 +3,7 @@
 ### Description ###
 ## This script is to create AOV tech pass system like mental ray contribution passes
 ## This script is still deving/improving
-## really welcome anyone can give/ mail me any comments and suggestions
+## feel free to mail me if you have any comments and suggestions
 ## Thanks! :)
 ## Kenzie Chen | kenziec@themill.com  
 
